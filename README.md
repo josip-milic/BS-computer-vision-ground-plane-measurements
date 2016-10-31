@@ -22,15 +22,15 @@ koje su se nalazile na relativno velikoj udaljenosti od kamere.
 (c) 2015 Josip Milić
 <br>
 
-<img href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/panel_kalibracija.png">
+<img src="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/panel_kalibracija.png">
 <br/>
-<img href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/micanje_izoblicenja.png">
+<img src="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/micanje_izoblicenja.png">
 <br/>
-<img href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/panel_homografija.png">
+<img src="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/panel_homografija.png">
 <br/>
-<img href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/pomoc_pri_odabiru_1.png">
+<img src="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/pomoc_pri_odabiru_1.png">
 <br/>
-<img href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/transform.png">
+<img src="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Slike/transform.png">
 <br/>
 
 ###Više informacija i upute o korištenju u <a href="https://github.com/josip-milic/BS-computer-vision-ground-plane-measurements/blob/master/Zavr%C5%A1ni%20rad/milic_bs_rad.pdf">radu</a>.
