@@ -1,0 +1,23 @@
+Potrebno je instalirati sljedeæu programsku podršku:
+- Python	python-2.7.6.msi
+- OpenCV*	OpenCV-2.4.6.0.exe
+- Numpy		numpy-1.8.0-win32-superpack-python2.7.exe
+
+- opcionalno: PTVS (Python Tools for Visual Studio)	Programska podrška\PTVS 2.0 VS 2013.msi
+
+
+Za potpunu instalaciju OpenCV biblioteke potrebno je kopirati datoteku
+cv2.pyd iz foldera opencv/build/python/2.7 u folder C:/Python27/lib/site-packeges.
+Provjera ispravne instalacije vrši se uz pomoæ naredbi u Python terminalu:
+>>> import cv2
+>>> print cv2.__version__
+Ukoliko je sve ispravno instalacija biblioteke je uspješna.
+
+-------------------------------------------------------------------------------------------------
+
+
+Za pokretanje programa potrebno je otvoriti program 
+Programska implementacija\ZR_Mjerenje_udaljenosti.py
+
+Pokretanjem se pojavljuje izbornik odabira primjera.
+Primjeri se odabiru uz pomoæ tipkovnice.

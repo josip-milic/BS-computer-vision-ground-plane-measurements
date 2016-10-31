@@ -1,0 +1,11 @@
+﻿Build started 1.5.2014. 17:13:27.
+     1>Project "C:\Users\Josip Milić\Documents\ZR\Kalibracija c++\Program\CameraCalibration.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\classes\Summer2003\EE673\software\IQEye3 /I"C:\Program Files\OpenCV\otherlibs\highgui" /I"C:\Program Files\OpenCV\cxcore\include" /I"C:\Program Files\OpenCV\cv\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\josip milić\documents\zr\kalibracija c++\program\distortion.h(15): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+     1>Done Building Project "C:\Users\Josip Milić\Documents\ZR\Kalibracija c++\Program\CameraCalibration.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29
